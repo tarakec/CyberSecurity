@@ -1,2 +1,2 @@
 # CyberSecurity
-CS 465 Xyber Principals and Coding Assignments
+CS 465 Cyber Principals and Coding Assignments
